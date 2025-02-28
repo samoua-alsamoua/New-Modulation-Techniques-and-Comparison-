@@ -69,9 +69,11 @@ The bar chart compares the spectral efficiency of each modulation scheme. Higher
 
 ---
 
-## **Contact**
-If you have any questions or suggestions, feel free to reach out:
-- Email: your-email@example.com
-- GitHub: [@your-username](https://github.com/your-username)
+## Contact
+- **Author**: Samoua Alsamoua
+- **GitHub**: [samoua-alsamoua](https://github.com/samoua-alsamoua)
+- **Website**: [saalsamoua.github.io](https://samoua-alsamoua.github.io/saalsamoua/)
+
+```
 
 ---
