@@ -74,6 +74,4 @@ The bar chart compares the spectral efficiency of each modulation scheme. Higher
 - **GitHub**: [samoua-alsamoua](https://github.com/samoua-alsamoua)
 - **Website**: [saalsamoua.github.io](https://samoua-alsamoua.github.io/saalsamoua/)
 
-```
-
 ---
